@@ -22,7 +22,7 @@ Templating : Fashi , AdminLTE, admintemplate
 > linknya
 
 ## Link deploy/hosting
-> linkherokunya
+> epetshop16.herokuapp.com/
 
 
 ## Link Referensi internal development (buat tim)
